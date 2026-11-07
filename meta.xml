@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>bahmanfast</id>
+  <name>bahmanfast</name>
+  <description>FAST_MODE for bahman</description>
+  <version>1.0.0</version>
+  <release>1</release>
+  <vendor>local</vendor>
+</module>
